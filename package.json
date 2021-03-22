@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": " node taker w/ heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elshaddai Akindele",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elshie21/note-taker-assigment.git"
+  },
+  "keywords": [
+    "notetaker"
+  ],
+  "bugs": {
+    "url": "https://github.com/elshie21/note-taker-assigment/issues"
+  },
+  "homepage": "https://github.com/elshie21/note-taker-assigment#readme"
+}
